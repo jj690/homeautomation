@@ -1,0 +1,9 @@
+
+.env
+homeassistant/config/
+mqtt/data/
+database/data/
+ml-pipeline/data/
+ml-pipeline/models/
+__pycache__/
+.venv/
